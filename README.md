@@ -234,7 +234,7 @@ Sample files are saved to the current directory demonstrating basic vowels, pitc
 
 ## References
 
-- Original R package: https://github.com/tatters/soundgen
+- Original R package: https://cran.r-project.org/web/packages/soundgen/index.html
 - Anikin, A. (2019). Soundgen: An open-source tool for synthesizing nonlinguistic vocalizations. *Behavior Research Methods*, 51(2), 778-792.
 
 ## License
